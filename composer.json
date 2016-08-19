@@ -1,5 +1,5 @@
 {
-    "name": "grsolutions/Gallery",
+    "name": "grsolutions/gallery",
     "type": "yii2-extension",
     "description": "The gallery the Yii framework",
     "keywords": ["yii2", "gallery", "ajax"],
@@ -18,7 +18,7 @@
     },
     "autoload": {
         "psr-4": {
-            "yii\\grsolutions\\Gallery\\": ""
+            "yii\\grsolutions\\gallery\\": ""
         }
     }
 }

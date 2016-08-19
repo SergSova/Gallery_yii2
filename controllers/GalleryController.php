@@ -1,11 +1,11 @@
 <?php
 
-    namespace yii\grsolutions\Gallery\controllers;
+    namespace yii\grsolutions\gallery\controllers;
 
-    use yii\grsolutions\Gallery\models\GalleryCategory;
-    use yii\grsolutions\Gallery\models\GalleryItem;
-    use yii\grsolutions\Gallery\models\GalleryModel;
-    use yii\grsolutions\Gallery\models\SearchGalleryItem;
+    use yii\grsolutions\gallery\models\GalleryCategory;
+    use yii\grsolutions\gallery\models\GalleryItem;
+    use yii\grsolutions\gallery\models\GalleryModel;
+    use yii\grsolutions\gallery\models\SearchGalleryItem;
     use Yii;
     use yii\web\Controller;
 

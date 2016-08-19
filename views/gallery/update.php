@@ -1,6 +1,6 @@
 <?php
     use yii\helpers\Html;
-    /** @var \yii\grsolutions\Gallery\models\GalleryModel $galleryModel */
+    /** @var \yii\grsolutions\gallery\models\GalleryModel $galleryModel */
 
     $this->title = 'Update Catalog '.$galleryModel->catalog->title
 ?>

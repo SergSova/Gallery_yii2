@@ -1,6 +1,6 @@
 <?php
 
-    namespace yii\grsolutions\Gallery;
+    namespace yii\grsolutions\gallery;
 
     use yii\base\Module;
 

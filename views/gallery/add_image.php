@@ -1,7 +1,7 @@
 <?php
     use yii\helpers\Html;
 
-    /** @var yii\grsolutions\Gallery\models\GalleryModel $galleryModel */
+    /** @var yii\grsolutions\gallery\models\GalleryModel $galleryModel */
 
     $this->title = 'Add image to '.$galleryModel->catalog->title
 ?>

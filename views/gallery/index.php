@@ -1,7 +1,7 @@
 <?php
 
-    /** @var yii\grsolutions\Gallery\models\GalleryCategory[] $galleryCategoryModel */
-    /** @var yii\grsolutions\Gallery\models\SearchGalleryItem $searchModel */
+    /** @var yii\grsolutions\gallery\models\GalleryCategory[] $galleryCategoryModel */
+    /** @var yii\grsolutions\gallery\models\SearchGalleryItem $searchModel */
     /** @var \yii\data\ActiveDataProvider $dataProvider */
     use yii\helpers\Html;
     use yii\widgets\ListView;

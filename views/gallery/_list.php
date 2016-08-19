@@ -1,5 +1,5 @@
 <?php
-    /** @var yii\grsolutions\Gallery\models\GalleryItem $model */
+    /** @var yii\grsolutions\gallery\models\GalleryItem $model */
     use yii\helpers\Html;
 
 ?>

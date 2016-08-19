@@ -1,5 +1,5 @@
 <?php
-    namespace yii\grsolutions\Gallery\models;
+    namespace yii\grsolutions\gallery\models;
 
     use yii\db\ActiveRecord;
 
