@@ -1,0 +1,24 @@
+{
+    "name": "grsolutions/Gallery",
+    "type": "yii2-extension",
+    "description": "The gallery the Yii framework",
+    "keywords": ["yii2", "gallery", "ajax"],
+    "license": "BSD-3-Clause",
+    "support": {
+        "source": "https://github.com/alexposseda/fileManagerForYii2"
+    },
+    "authors": [
+        {
+            "name": "Serg Sova",
+            "email": "sergeysova@ukr.net"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "yii\grsolutions\Gallery\\": ""
+        }
+    }
+}
